@@ -4,7 +4,7 @@
     "private_key_id": "546cf6e74c85d41f20b3478d27414df5f64b4f74",
     "private_key": {insert private key here}
     "client_email": {insert email here},
-    "client_id": "102292628884279952790",
+    "client_id": {insert client id},
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
